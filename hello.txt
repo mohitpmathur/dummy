@@ -3,3 +3,5 @@ Hello from the website
 Updating after creating a dev branch
 
 Updating from the dev branch
+
+Updating from dev after 1st merge
