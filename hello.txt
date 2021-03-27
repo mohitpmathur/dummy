@@ -1,5 +1,7 @@
 Hello from the website
 
+Adding from dev2 branch
+
 Updating after creating a dev branch
 
 Updating from the dev branch
@@ -8,4 +10,7 @@ added from dev branch
 
 Updating from dev after 1st merge
 
+Adding from dev2 branch
+
 Added stuff from the dev branch
+
